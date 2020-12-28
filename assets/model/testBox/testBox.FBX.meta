@@ -1,0 +1,168 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b8865be7-419f-415e-b096-0303c63ec157",
+  "files": [],
+  "subMetas": {
+    "a342f": {
+      "importer": "gltf-mesh",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@a342f",
+      "displayName": "",
+      "id": "a342f",
+      "name": "testBox.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6386": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@d6386",
+      "displayName": "",
+      "id": "d6386",
+      "name": "Map #8.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "873ed": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@873ed",
+      "displayName": "",
+      "id": "873ed",
+      "name": "Map #6.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0427": {
+      "importer": "texture",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@a0427",
+      "displayName": "",
+      "id": "a0427",
+      "name": "Map #8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b8865be7-419f-415e-b096-0303c63ec157@d6386"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b8865be7-419f-415e-b096-0303c63ec157@873ed"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db63b": {
+      "importer": "gltf-material",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@db63b",
+      "displayName": "",
+      "id": "db63b",
+      "name": "Material #190.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f54f2": {
+      "importer": "gltf-scene",
+      "uuid": "b8865be7-419f-415e-b096-0303c63ec157@f54f2",
+      "displayName": "",
+      "id": "f54f2",
+      "name": "testBox.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #8",
+        "uri": "b8865be7-419f-415e-b096-0303c63ec157@d6386"
+      },
+      {
+        "name": "Map #6",
+        "uri": "b8865be7-419f-415e-b096-0303c63ec157@873ed"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "b8865be7-419f-415e-b096-0303c63ec157@f54f2",
+    "assetFinder": {
+      "meshes": [
+        "b8865be7-419f-415e-b096-0303c63ec157@a342f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b8865be7-419f-415e-b096-0303c63ec157@a0427",
+        "b8865be7-419f-415e-b096-0303c63ec157@53e01"
+      ],
+      "materials": [
+        "b8865be7-419f-415e-b096-0303c63ec157@db63b"
+      ],
+      "scenes": [
+        "b8865be7-419f-415e-b096-0303c63ec157@f54f2"
+      ]
+    }
+  }
+}
